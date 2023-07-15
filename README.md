@@ -1,4 +1,4 @@
 # ml-papers-implementation
 
-Neural Style Transfer - Done(add comments and optimize)
-Cartoon GAN - Todo Next
+1. Neural Style Transfer - Done(add comments and optimize)
+2. Cartoon GAN - Todo Next
